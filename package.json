@@ -1,0 +1,15 @@
+{
+  "name": "testapp-nodejs",
+  "version": "0.0.1",
+  "description": "Test node.js app for Semaphoreapp.com",
+  "main": "index.js",
+  "dependencies": {
+    "mocha": "1.15.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "author": "Darko Fabijan",
+  "license": "BSD"
+}
