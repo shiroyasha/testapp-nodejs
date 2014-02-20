@@ -7,5 +7,3 @@ To run it locally or on Semaphore you need just following commands:
 npm install
 npm test
 ```
-
-This is PR test.
